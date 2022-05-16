@@ -13,7 +13,7 @@
 <br/>
 
 ## Tech Stack
-- Client: React, TypeScript, Zustand, Emotion, material UI
+- Client: React, TypeScript, Zustand, Emotion, Material UI
 
 <br/>
 

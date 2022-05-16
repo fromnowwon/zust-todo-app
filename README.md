@@ -1,6 +1,6 @@
 # Zust To-Do App
 
-📎 [Demo]()
+📎 [Demo](https://fromnowwon.github.io/zust-todo-app/)
 
 ![](./public/images/zust-todo-app.gif)
 
